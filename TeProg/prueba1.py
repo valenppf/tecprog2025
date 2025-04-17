@@ -1,0 +1,1 @@
+print ("cogito ergo sum")
